@@ -1,4 +1,3 @@
-img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   - I'm First Year Student at Indian Institute of Technology, Dhanbad <br>
   - Electronics and Communication Stream <br>
   - Machine Learning enthusiast <br>
