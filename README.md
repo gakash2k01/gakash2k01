@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center">Hola Amigos, Raveena Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hola Amigos, Akash Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   - :school: I'm First Year Student at Indian Institute of Technology, Dhanbad <br>
   - 💻: Electronics and Communication Stream <br>
   - :smile: Machine Learning enthusiast <br>
