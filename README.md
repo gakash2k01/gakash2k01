@@ -1,12 +1,11 @@
-### Hi there 👋
 
 <h2 align="center">Hola Amigos, Akash Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  - :school: I'm First Year Student at Indian Institute of Technology, Dhanbad <br>
-  - 💻: Electronics and Communication Stream <br>
-  - :smile: Machine Learning enthusiast <br>
-  - 🤔 Exploring Competitive Coding <br>
+  - I'm First Year Student at Indian Institute of Technology, Dhanbad <br>
+  - Electronics and Communication Stream <br>
+  - Machine Learning enthusiast <br>
+  - Exploring Competitive Coding <br>
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Connect with me.</h2> 
 
 <p align="center">
 <a href="https://github.com/gakash2k01" target="_blank">
