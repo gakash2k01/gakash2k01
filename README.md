@@ -1,4 +1,4 @@
-  - I'm First Year Student at Indian Institute of Technology, Dhanbad <br>
+  - I'm Second Year Student at Indian Institute of Technology, Dhanbad <br>
   - Electronics and Communication Stream <br>
   - Machine Learning enthusiast <br>
   - Exploring Competitive Coding <br>
