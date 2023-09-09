@@ -1,4 +1,4 @@
-  - I am a Third Year Student at Indian Institute of Technology, Dhanbad <br>
+  - I am a Final Year Student at Indian Institute of Technology, Dhanbad <br>
   - Electronics and Communication Stream <br>
   - Machine Learning enthusiast <br>
   - Exploring Competitive Coding <br>
