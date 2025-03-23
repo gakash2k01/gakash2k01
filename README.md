@@ -1,4 +1,4 @@
-  - Machine Learning Engineer at Airamatrix <br>
+  - Artificial Intelligence Engineer at Airamatrix <br>
   - I am an undergraduate from Indian Institute of Technology, Dhanbad <br>
   - Electronics and Communication Stream <br>
   - Exploring Blockchain Technology <br>
