@@ -1,7 +1,7 @@
-  - I am a Final Year Student at Indian Institute of Technology, Dhanbad <br>
+  - Machine Learning Engineer <br>
+  - I am an undergraduate from Indian Institute of Technology, Dhanbad <br>
   - Electronics and Communication Stream <br>
-  - Machine Learning enthusiast <br>
-  - Exploring Competitive Coding <br>
+  - Exploring Blockchain Technology <br>
 
 <h2 align="center">Connect with me.</h2> 
 
